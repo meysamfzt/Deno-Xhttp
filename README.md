@@ -3,7 +3,9 @@ XHTTP relay for Xray/V2Ray on Deno Edge — mEYSAmFzT
 
 Environment Variable:
 TARGET_DOMAIN:https://yourdomain.com:port
-(این پروژه خام و صرفا جهت انتشار برای تست
-این پروژه تا پیدا شدن SNI هیچ آپدیتی دریافت نمیکنه)
+
+این یک پروژه خام و صرفا جهت تست تا پیدا شدن Sni هست
+آپدیت ها و تغییرات برای مصرف کمتر و بهینه سازی ها پس از پیدا شدن SNI در همین ریپازیتی منتشر میشه
+تلگرام :
 @PSYCHOVPNiR
 @mEYSAm_FzT
